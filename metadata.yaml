@@ -1,0 +1,33 @@
+_repo: Through-South-AfricaHis-Visit-to-Rhodesia-the-Transvaal-Cape-Colony-Natal_32913
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, Henry Morton, Sir
+    - Stanley, H. M. (Henry Morton)
+    - Rowlands, John
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: Illustrated with photographs.
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South Africa -- Description and travel'
+title: 'Through South Africa
+
+  His Visit to Rhodesia, the Transvaal, Cape Colony, Natal'
+url: http://www.gutenberg.org/ebooks/32913

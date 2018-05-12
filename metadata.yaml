@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1714
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: Illustrated with photographs.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32913#Through-South-AfricaHis-Visit-to-Rhodesia-the-Transvaal-Cape-Colony-Natal
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
